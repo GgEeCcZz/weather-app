@@ -7,8 +7,8 @@
 ### 1. Клонирование репозитория
 
 ```bash
-  git clone https://github.com/Slupell/weather.git
-  cd your-repository-name
+  git clone https://github.com/GgEeCcZz/weather-app.git
+  cd weather-app
 ```
 
 ### 2. Установка зависимостей
@@ -22,7 +22,7 @@
 Для работы с API необходим API-ключ, добавьте его в `.env` файл в корне проекта
 
 ```js
-VITE_WEATHERMAP_API_KEY=your_api_key
+VITE_API_KEY=your_api_key
 ```
 
 Замените `your_api_key` на ваш реальный API-ключ.
